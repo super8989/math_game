@@ -6,3 +6,6 @@ class Player
     @lives = 3
   end
 end
+
+player1 = Player.new('Sam')
+p player1
